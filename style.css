@@ -1,4 +1,10 @@
 .user{
     background-color: rgb(103, 103, 255);
     color:whitesmoke;
+    text-align: center;
+    padding: 10px;
 }
+/* #container{
+    border-color: black;
+    border-width: 5px;
+} */
